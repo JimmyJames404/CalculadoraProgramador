@@ -1,0 +1,29 @@
+C:\Users\danie_000\Videos\Código\CalculadoraProgramador\CalculadoraProgramador\bin\Debug\CalculadoraProgramador.exe.config
+C:\Users\danie_000\Videos\Código\CalculadoraProgramador\CalculadoraProgramador\bin\Debug\CalculadoraProgramador.exe
+C:\Users\danie_000\Videos\Código\CalculadoraProgramador\CalculadoraProgramador\bin\Debug\CalculadoraProgramador.pdb
+C:\Users\danie_000\Videos\Código\CalculadoraProgramador\CalculadoraProgramador\obj\Debug\CalculadoraProgramador.csprojResolveAssemblyReference.cache
+C:\Users\danie_000\Videos\Código\CalculadoraProgramador\CalculadoraProgramador\obj\Debug\CalculadoraProgramador.Form1.resources
+C:\Users\danie_000\Videos\Código\CalculadoraProgramador\CalculadoraProgramador\obj\Debug\CalculadoraProgramador.Properties.Resources.resources
+C:\Users\danie_000\Videos\Código\CalculadoraProgramador\CalculadoraProgramador\obj\Debug\CalculadoraProgramador.csproj.GenerateResource.Cache
+C:\Users\danie_000\Videos\Código\CalculadoraProgramador\CalculadoraProgramador\obj\Debug\CalculadoraProgramador.exe
+C:\Users\danie_000\Videos\Código\CalculadoraProgramador\CalculadoraProgramador\obj\Debug\CalculadoraProgramador.pdb
+C:\Users\Jimmy\Downloads\CalculadoraProgramador\CalculadoraProgramador\bin\Debug\CalculadoraProgramador.exe.config
+C:\Users\Jimmy\Downloads\CalculadoraProgramador\CalculadoraProgramador\bin\Debug\CalculadoraProgramador.exe
+C:\Users\Jimmy\Downloads\CalculadoraProgramador\CalculadoraProgramador\bin\Debug\CalculadoraProgramador.pdb
+C:\Users\Jimmy\Downloads\CalculadoraProgramador\CalculadoraProgramador\obj\Debug\CalculadoraProgramador.csprojAssemblyReference.cache
+C:\Users\Jimmy\Downloads\CalculadoraProgramador\CalculadoraProgramador\obj\Debug\CalculadoraProgramador.Form1.resources
+C:\Users\Jimmy\Downloads\CalculadoraProgramador\CalculadoraProgramador\obj\Debug\CalculadoraProgramador.Properties.Resources.resources
+C:\Users\Jimmy\Downloads\CalculadoraProgramador\CalculadoraProgramador\obj\Debug\CalculadoraProgramador.csproj.GenerateResource.cache
+C:\Users\Jimmy\Downloads\CalculadoraProgramador\CalculadoraProgramador\obj\Debug\CalculadoraProgramador.csproj.CoreCompileInputs.cache
+C:\Users\Jimmy\Downloads\CalculadoraProgramador\CalculadoraProgramador\obj\Debug\CalculadoraProgramador.exe
+C:\Users\Jimmy\Downloads\CalculadoraProgramador\CalculadoraProgramador\obj\Debug\CalculadoraProgramador.pdb
+D:\Aprendizajes\UVG\Plataforma\7-Cuatrimestre\Programacion de sistema\CalculadoraProgramador\CalculadoraProgramador\bin\Debug\CalculadoraProgramador.exe.config
+D:\Aprendizajes\UVG\Plataforma\7-Cuatrimestre\Programacion de sistema\CalculadoraProgramador\CalculadoraProgramador\bin\Debug\CalculadoraProgramador.exe
+D:\Aprendizajes\UVG\Plataforma\7-Cuatrimestre\Programacion de sistema\CalculadoraProgramador\CalculadoraProgramador\bin\Debug\CalculadoraProgramador.pdb
+D:\Aprendizajes\UVG\Plataforma\7-Cuatrimestre\Programacion de sistema\CalculadoraProgramador\CalculadoraProgramador\obj\Debug\CalculadoraProgramador.csprojAssemblyReference.cache
+D:\Aprendizajes\UVG\Plataforma\7-Cuatrimestre\Programacion de sistema\CalculadoraProgramador\CalculadoraProgramador\obj\Debug\CalculadoraProgramador.Form1.resources
+D:\Aprendizajes\UVG\Plataforma\7-Cuatrimestre\Programacion de sistema\CalculadoraProgramador\CalculadoraProgramador\obj\Debug\CalculadoraProgramador.Properties.Resources.resources
+D:\Aprendizajes\UVG\Plataforma\7-Cuatrimestre\Programacion de sistema\CalculadoraProgramador\CalculadoraProgramador\obj\Debug\CalculadoraProgramador.csproj.GenerateResource.cache
+D:\Aprendizajes\UVG\Plataforma\7-Cuatrimestre\Programacion de sistema\CalculadoraProgramador\CalculadoraProgramador\obj\Debug\CalculadoraProgramador.csproj.CoreCompileInputs.cache
+D:\Aprendizajes\UVG\Plataforma\7-Cuatrimestre\Programacion de sistema\CalculadoraProgramador\CalculadoraProgramador\obj\Debug\CalculadoraProgramador.exe
+D:\Aprendizajes\UVG\Plataforma\7-Cuatrimestre\Programacion de sistema\CalculadoraProgramador\CalculadoraProgramador\obj\Debug\CalculadoraProgramador.pdb
